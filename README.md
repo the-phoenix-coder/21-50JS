@@ -13,7 +13,7 @@ HTML, CSS and JavaScript
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="">Theme Clock</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/21-50JS/tree/main/Theme%20Clock">Theme Clock</a></td>
       <td><a href="">Live</a></td>
     </tr>
     <tr>
