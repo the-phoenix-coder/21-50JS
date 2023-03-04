@@ -18,7 +18,7 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="">Button Ripple Effect</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/21-50JS/tree/main/Button%20Ripple%20Effect">Button Ripple Effect</a></td>
       <td><a href="">Live</a></td>
     </tr>
     <tr>
