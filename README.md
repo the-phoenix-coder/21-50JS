@@ -19,7 +19,7 @@ HTML, CSS and JavaScript
     <tr>
       <td>02</td>
       <td><a href="https://github.com/the-phoenix-coder/21-50JS/tree/main/Button%20Ripple%20Effect">Button Ripple Effect</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://button-ripple-effect-psi.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>03</td>
