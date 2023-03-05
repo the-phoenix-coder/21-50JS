@@ -24,7 +24,7 @@ HTML, CSS and JavaScript
     <tr>
       <td>03</td>
       <td><a href="https://github.com/the-phoenix-coder/21-50JS/tree/main/Drag%26Drop">Drag & Drop</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://drag-drop-self-two.vercel.app/">Live</a></td>
     </tr>
   </tbody>
 </table>
