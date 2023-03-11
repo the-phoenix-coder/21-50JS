@@ -10,7 +10,27 @@ const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "
 
 setInterval(program, 1000);
 
-toggleBtn.addEventListener('click', () => document.body.classList.toggle('active'))
+let dark = false
+
+toggleBtn.addEventListener('click', () =>
+{
+    document.body.classList.toggle('active')
+    dark = !dark
+    mood()
+})
+
+mood()
+
+function mood()
+{
+    if (dark == true)
+    {
+        toggleBtn.innerText = 'Light Mood'
+    } else
+    {
+        toggleBtn.innerText = 'Dark Mood'
+    }
+}
 
 function timing() {
     const date = new Date()
